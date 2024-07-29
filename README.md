@@ -1,0 +1,1 @@
+This is an example of practising and understanding OAuth2. It contains the authorisation server, resource and client. I was guided by the video tutorial provided by Ivana Rojas Córsico Engineering https://www.youtube.com/@irojascorsico
